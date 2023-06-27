@@ -483,12 +483,27 @@
       "row": 1
    },
    {
+      "BSVersion":"XR ALPHA",
+      "BSManifest":"7451458216441819087",
+      "ReleaseURL":"NULL",
+      "year": "2023",
+      "row": 2
+   },
+   {
+      "BSVersion":"XR BETA",
+      "BSManifest":"8618396706007674506",
+      "ReleaseURL":"NULL",
+      "year": "2023",
+      "row": 2
+   },
+   {
       "BSVersion":"1.29.4",
       "BSManifest":"6291266771922375922",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3708194993422325380",
       "year": "2023",
       "row": 2
    },
+   
    {
       "BSVersion":"1.30.0",
       "BSManifest":"7304715857122259127",
@@ -502,12 +517,5 @@
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3655280868312846230",
       "year": "2023",
       "row": 3
-   },
-   {
-      "BSVersion":"1.29.4a",
-      "BSManifest":"7451458216441819087",
-      "ReleaseURL":"NULL",
-      "year": "BETAS",
-      "row": 1
-   }
+   }   
 ]
