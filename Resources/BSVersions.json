@@ -7,6 +7,13 @@
       "row": 0
    },
    {
+      "BSVersion":"0.10.2b1",
+      "BSManifest":"7674013830649003337",
+      "ReleaseURL":"NULL",
+      "year": "2018",
+      "row": 0
+   },
+   {
       "BSVersion":"0.10.2",
       "BSManifest":"2542095265882143144",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3199123443061240805",
@@ -63,6 +70,13 @@
       "row": 2
    },
    {
+      "BSVersion":"0.12.1b1",
+      "BSManifest":"4435387545491908757",
+      "ReleaseURL":"NULL",
+      "year": "2018",
+      "row": 2
+   },
+   {
       "BSVersion":"0.12.1",
       "BSManifest":"2472041066434647526",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3142848113551335636",
@@ -83,10 +97,18 @@
       "year": "2019",
       "row": 0
    },
+   
    {
       "BSVersion":"0.13.0p1",
       "BSManifest":"6827433614670733798",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/1809790964563689188",
+      "year": "2019",
+      "row": 0
+   },
+   {
+      "BSVersion":"0.13.1b1",
+      "BSManifest":"2479716787273789866",
+      "ReleaseURL":"NULL",
       "year": "2019",
       "row": 0
    },
@@ -112,11 +134,32 @@
       "row": 1
    },
    {
+      "BSVersion":"1.0.1b1",
+      "BSManifest":"21808000064636298",
+      "ReleaseURL":"NULL",
+      "year": "2019",
+      "row": 1
+   },
+   {
+      "BSVersion":"1.0.1b2",
+      "BSManifest":"7961522920183992795",
+      "ReleaseURL":"NULL",
+      "year": "2019",
+      "row": 1
+   },
+   {
       "BSVersion":"1.0.1",
       "BSManifest":"7950322551526208347",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/1617268229025488499",
       "year": "2019",
       "row": 1
+   },
+   {
+      "BSVersion":"1.1.0b1",
+      "BSManifest":"7328426073746555634",
+      "ReleaseURL":"NULL",
+      "year": "2019",
+      "row": 2
    },
    {
       "BSVersion":"1.1.0",
@@ -138,6 +181,13 @@
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3266717385279679846",
       "year": "2019",
       "row": 3
+   },
+   {
+      "BSVersion":"1.3.0b1",
+      "BSManifest":"754277321799466058",
+      "ReleaseURL":"NULL",
+      "year": "2019",
+      "row": 4
    },
    {
       "BSVersion":"1.3.0",
@@ -168,6 +218,13 @@
       "row": 5
    },
    {
+      "BSVersion":"1.6.0b1",
+      "BSManifest":"1558719508179518807",
+      "ReleaseURL":"NULL",
+      "year": "2019",
+      "row": 6
+   },
+   {
       "BSVersion":"1.6.0",
       "BSManifest":"1869974316274529288",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3462636667924814182",
@@ -194,6 +251,27 @@
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/1708488968117071534",
       "year": "2020",
       "row": 0
+   },
+   {
+      "BSVersion":"1.8.0b1",
+      "BSManifest":"7895726645002193553",
+      "ReleaseURL":"NULL",
+      "year": "2020",
+      "row": 1
+   },
+   {
+      "BSVersion":"1.8.0b2",
+      "BSManifest":"5034868045536418671",
+      "ReleaseURL":"NULL",
+      "year": "2020",
+      "row": 1
+   },
+   {
+      "BSVersion":"1.8.0b3",
+      "BSManifest":"6406030817654977349",
+      "ReleaseURL":"NULL",
+      "year": "2020",
+      "row": 1
    },
    {
       "BSVersion":"1.8.0",
@@ -308,11 +386,25 @@
       "row": 2
    },
    {
+      "BSVersion":"1.16.2b1",
+      "BSManifest":"8138074968751658813",
+      "ReleaseURL":"NULL",
+      "year": "2021",
+      "row": 2
+   },
+   {
       "BSVersion":"1.16.2",
       "BSManifest":"3692829915208062825",
       "ReleaseURL":"http://steamcommunity.com/games/620980/announcements/detail/3024710972645830369",
       "year": "2021",
       "row": 2
+   },
+   {
+      "BSVersion":"1.16.3b1",
+      "BSManifest":"359870355216685341",
+      "ReleaseURL":"NULL",
+      "year": "2021",
+      "row": 3
    },
    {
       "BSVersion":"1.16.3",
@@ -378,11 +470,39 @@
       "row": 6
    },
    {
+      "BSVersion":"1.19.1b1",
+      "BSManifest":"6504575834439294596",
+      "ReleaseURL":"NULL",
+      "year": "2021",
+      "row": 6
+   },
+   {
+      "BSVersion":"1.19.1b2",
+      "BSManifest":"3400399060417199651",
+      "ReleaseURL":"NULL",
+      "year": "2022",
+      "row": 0
+   },
+   {
+      "BSVersion":"1.19.1b3",
+      "BSManifest":"6695934593516653206",
+      "ReleaseURL":"NULL",
+      "year": "2022",
+      "row": 0
+   },
+   {
       "BSVersion":"1.19.1",
       "BSManifest":"1175216641760077721",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/5771929045825669047",
       "year": "2022",
       "row": 0
+   },
+   {
+      "BSVersion":"1.20.0b1",
+      "BSManifest":"7544910552308977013",
+      "ReleaseURL":"NULL",
+      "year": "2022",
+      "row": 1
    },
    {
       "BSVersion":"1.20.0",
@@ -395,6 +515,20 @@
       "BSVersion":"1.21.0",
       "BSManifest":"3648558848715327622",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3180111792066790947",
+      "year": "2022",
+      "row": 2
+   },
+   {
+      "BSVersion":"1.22.0b1",
+      "BSManifest":"3127490762128419443",
+      "ReleaseURL":"NULL",
+      "year": "2022",
+      "row": 2
+   },
+   {
+      "BSVersion":"1.22.0b2",
+      "BSManifest":"2444647800492773078",
+      "ReleaseURL":"NULL",
       "year": "2022",
       "row": 2
    },
@@ -427,12 +561,20 @@
       "row": 2
    },
    {
+      "BSVersion":"1.25.0b1",
+      "BSManifest":"3684718000373511599",
+      "ReleaseURL":"NULL",
+      "year": "2022",
+      "row": 2
+   },
+   {
       "BSVersion":"1.24.1",
       "BSManifest":"3141359577983993890",
       "ReleaseURL":"NULL",
       "year": "2022",
       "row": 2
    },
+   
    {
       "BSVersion":"1.25.0",
       "BSManifest":"4529582051007915041",
@@ -451,6 +593,13 @@
       "BSVersion":"1.26.0",
       "BSManifest":"3634450655207470002",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3414318646334948892",
+      "year": "2022",
+      "row": 3
+   },
+   {
+      "BSVersion":"1.26.1b",
+      "BSManifest":"1251433115430405795",
+      "ReleaseURL":"NULL",
       "year": "2022",
       "row": 3
    },
@@ -483,14 +632,14 @@
       "row": 1
    },
    {
-      "BSVersion":"XR ALPHA",
+      "BSVersion":"1.29.4a1",
       "BSManifest":"7451458216441819087",
       "ReleaseURL":"NULL",
       "year": "2023",
       "row": 2
    },
    {
-      "BSVersion":"XR BETA",
+      "BSVersion":"1.29.4b1",
       "BSManifest":"8618396706007674506",
       "ReleaseURL":"NULL",
       "year": "2023",
